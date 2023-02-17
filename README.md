@@ -1,2 +1,2 @@
-# J
+# AJ
 My own programming language
