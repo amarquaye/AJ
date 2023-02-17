@@ -12,7 +12,7 @@ DIGITS = '0123456789'
 
 class Error:
     def __init__(self, error_name, details):
-        self.eror_name = error_name
+        self.error_name = error_name
         self.details = details
 
     def as_string(self):
